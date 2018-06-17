@@ -1,5 +1,3 @@
-# ls
-
 > vue脚手架目录
 
 ## Build Setup
